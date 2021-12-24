@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="900af499-65a4-4cd3-8a37-63a2689c19b7" name="Changes" comment="Adding Terraform Workflow">
+      <change afterPath="$PROJECT_DIR$/dev/dev.auto.tfvars" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22joz672kqTTjZAf7RAwY7laTAF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../terraform-sample1" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="900af499-65a4-4cd3-8a37-63a2689c19b7" name="Changes" comment="" />
+      <created>1640360616715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640360616715</updated>
+    </task>
+    <task id="LOCAL-00001" summary="README file">
+      <created>1640360687158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640360687158</updated>
+    </task>
+    <task id="LOCAL-00002" summary="README file">
+      <created>1640361704440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640361704440</updated>
+    </task>
+    <task id="LOCAL-00003" summary="README file">
+      <created>1640361723270</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640361723270</updated>
+    </task>
+    <task id="LOCAL-00004" summary="README file">
+      <created>1640362280901</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640362280901</updated>
+    </task>
+    <task id="LOCAL-00005" summary="README file">
+      <created>1640363472716</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1640363472716</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding Terraform Workflow">
+      <created>1640363756865</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1640363756865</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding Terraform Workflow">
+      <created>1640363986794</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1640363986794</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding Terraform Workflow">
+      <created>1640364278165</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1640364278165</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adding Terraform Workflow">
+      <created>1640364590553</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1640364590553</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="README file" />
+    <MESSAGE value="Adding Terraform Workflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Terraform Workflow" />
+  </component>
+</project>
