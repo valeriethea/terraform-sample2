@@ -1,5 +1,5 @@
 terraform {
-  required_version = ">= 0.13.1"
+  required_version = ">= 1.1.2"
 
   required_providers {
     aws = {
@@ -9,8 +9,3 @@ terraform {
   }
 }
 
-provider "aws" {
-  access_key  = var.aws_access_key
-  secret_key = var.aws_secret_key
-  region = var.region
-}
