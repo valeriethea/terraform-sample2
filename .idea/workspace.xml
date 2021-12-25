@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="900af499-65a4-4cd3-8a37-63a2689c19b7" name="Changes" comment="Adding Terraform Workflow">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/dev.auto.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/dev/dev.auto.tfvars" afterDir="false" />
-    </list>
+    <list default="true" id="900af499-65a4-4cd3-8a37-63a2689c19b7" name="Changes" comment="AWS Provider Version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640437609827</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Adding Terraform Workflow">
+      <created>1640437764447</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1640437764447</updated>
+    </task>
+    <task id="LOCAL-00020" summary="AWS Provider Version">
+      <created>1640437918872</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1640437918872</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +197,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="README file" />
     <MESSAGE value="Adding Terraform Workflow" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Terraform Workflow" />
+    <MESSAGE value="AWS Provider Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="AWS Provider Version" />
   </component>
 </project>
