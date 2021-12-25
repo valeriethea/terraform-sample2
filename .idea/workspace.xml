@@ -147,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640402815434</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Adding Terraform Workflow">
+      <created>1640435914023</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1640435914023</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Adding Terraform Workflow">
+      <created>1640436052917</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1640436052917</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
