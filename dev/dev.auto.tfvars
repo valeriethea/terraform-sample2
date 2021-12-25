@@ -1,4 +1,4 @@
 aws_access_key = ""
 aws_secret_key = ""
 key_name       = "thea-key"
-public_key     = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCRKky+b4syYKGtDFTpGri/epe0gIPL+GAjCcfAm31okAGfcUkMJV3GEpRf1KvI+ZyAoy2Y8Y4uinZ8G1LQWgmGlWEpy1LIerG3cRKc2yzDxva+s7QxoM86XClBuFRE0gBosgAT3afKVxeFisGv8YZiBuIv2k1ylUXGzzQ/ky3G3nAEUvbfU4Ke/V8N6dZHE2eyGr7oWtxEk2span4Xg57IGKACF5sJecXeBzVPK8LZ/CUrSJujRV8QtCUFQk+ivr5l7ottyHzBes9ZnLZMVWMzeFHjrjYLdKyHXEaaXoFDdFL6+IRUNpknY6Pdd7GS6zceCtMS9Ex9BLPB4D3Iz+TDrsa-key-20211223"
+public_key     = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDr9CFvCNQFw452IL9L1Kp1HAN0DxcFP3Ju7DnqeFXw5Pi5nH+nvkm0zq+hg/wCKoFT+VNcFmrgvA0+zZRTQy2vXoy3Pi6N7xOYPKBkaIjI6g1FyFMyjRKcHJe8+kIcKiFXTHIm3qp+OEUY19vkShhd1E6kM/S0f5LwbgVrFOZbwF46xbzTx+48G5kF6V4jhKIywSqFjnTbG5oBJmhhq2QXwtYN/evUcHV4LHDCS/kkw7T6gvWu/gXVa0CVI/xZ+SY31B0taqupIZL/pkxv6DBHbjc8T2KINvfLUjDkqrVeLrrKkPkun/MOKoT7Mp6FiwG17hEbUqDjUPvagQmPj/Yv rsa-key-20211225"

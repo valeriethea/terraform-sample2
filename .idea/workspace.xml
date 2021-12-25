@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="900af499-65a4-4cd3-8a37-63a2689c19b7" name="Changes" comment="AWS Provider Version" />
+    <list default="true" id="900af499-65a4-4cd3-8a37-63a2689c19b7" name="Changes" comment="AWS Provider Version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/dev.auto.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/dev/dev.auto.tfvars" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640437918872</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="AWS Provider Version">
+      <created>1640438254720</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1640438254720</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
